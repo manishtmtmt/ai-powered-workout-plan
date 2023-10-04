@@ -42,7 +42,7 @@ Ensure you have the following prerequisites installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/manishtmtmt/ai-powered-workout-plan.git
 ```
 
 2. Navigate to the project directory:
